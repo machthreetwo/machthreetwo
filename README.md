@@ -1,1 +1,1 @@
-<p align="center"><img src="assets/foxbat.gif" width="720" alt="Faceted low-poly MiG-25 Foxbat on a slow turntable"></p>
+<p align="center"><img src="assets/foxbat.gif" width="720" alt="Low-poly MiG-25 Foxbat climbing on afterburner into a night sky"></p>
