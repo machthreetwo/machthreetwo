@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/foxbat.gif" width="720" alt="Low-poly MiG-25 Foxbat climbing on afterburner into a night sky"></p>
 
 # Hey, I'm Akash 👋
-**machthreetwo** — named after the MiG-25 Foxbat's top speed. That's the pace I'm going for.
+**machthreetwo** — named after the MiG-25 Foxbat's Mach 3.2 dash. That's the pace I'm going for.
 
 CSE undergrad at Chandigarh University ('28), working on applied ML and agentic AI.
 Long-term goal: get LLMs out of the chat window and into real systems like
