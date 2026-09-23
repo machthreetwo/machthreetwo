@@ -18,8 +18,8 @@ edge devices, automotive and motorsport.
 - **[PulseX](https://github.com/machthreetwo/pulseX_backend)** — Async crypto backend: live CoinMarketCap prices, JWT auth with bcrypt, MongoDB via Motor. FastAPI.
 
 ### 🏆 Hackathons
-- **Top 10** — IIT Ropar × Pathway GenAI Hackathon (Team Palindromes)
-- **2nd prize** — Gen AI Hackathon, Chandigarh University
+- **Top 10** — IIT Ropar × Pathway GenAI Hackathon (Team AlienX)
+- **2nd prize** — Gen AI Hackathon, Chandigarh University (Team AetherFlux)
 - NASA Space Apps 2026
 
 ### 🧰 Stack
