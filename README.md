@@ -11,8 +11,11 @@ edge devices, automotive and motorsport.
 - **[InsideX](https://github.com/machthreetwo/INSIDEX-FULL)** — Stock research copilot. Perplexity pulls live market news across several time windows, Claude condenses it into a five-point brief, and a RAG chat (Pathway embeddings + Chroma, history in MongoDB) answers follow-ups with sources. FastAPI + React.
 - **Legal RAG** — Retrieval over Indian Supreme Court judgments. FAISS + BM25 hybrid search, cross-encoder reranking, Llama 3.1 on Groq, with ablation studies.
 - **Claim Defender** — Photograph your health-insurance documents and it predicts how likely the claim is to be rejected. IRDAI rules are hardcoded; each insurer's terms are pulled in with RAG. FastAPI backend.
-- **OmniResol** — ML agents for an AI-run complaint resolution platform for public sector banks (DFS/AI-CSPARC Hackathon 2026).
+- **[OmniResol](https://github.com/machthreetwo/UCCD)** — ML agents for an AI-run complaint resolution platform for public sector banks (DFS/AI-CSPARC Hackathon 2026).
 - **Solar Flare Prediction** — One model on SHARP magnetic parameters and one CNN + Transformer model on solar images.
+- **[Astranet](https://github.com/machthreetwo/Astranet_app)** — Flutter app for spotting celestial objects: camera capture with an AI mode, detection history and a mission-control dashboard, built to run on a FastAPI detection backend.
+- **[NarrativeNexus](https://github.com/machthreetwo/NarrativeNexus)** — Cleans raw text or HTML (NLTK + BeautifulSoup), summarizes it with BART-large-CNN and scores the summary's sentiment. FastAPI + vanilla JS.
+- **[PulseX](https://github.com/machthreetwo/pulseX_backend)** — Async crypto backend: live CoinMarketCap prices, JWT auth with bcrypt, MongoDB via Motor. FastAPI.
 
 ### 🏆 Hackathons
 Team Palindromes: winners, IIT Ropar national hackathon · SIH 2026 · NASA Space Apps 2026
